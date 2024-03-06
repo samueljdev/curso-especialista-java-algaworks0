@@ -2,6 +2,12 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+.idea
+.gitignore
+
+# Default ignored files
+/shelf/
+/workspace.xml
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
